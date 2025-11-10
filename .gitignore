@@ -1,0 +1,28 @@
+# Altium outputs & cache
+Project Outputs*/
+__Previews*/
+History*/
+Simulation*/
+Generated*/
+*.log
+*.tmp
+*.bak
+*.zip
+*.rar
+
+# Common CAD/MCAD big files (bỏ nếu bạn muốn track)
+*.Step
+*.STEP
+*.Stp
+*.STP
+*.3d
+*.3D
+*.iges
+*.IGES
+*.igs
+*.IGS
+
+# OS/IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
