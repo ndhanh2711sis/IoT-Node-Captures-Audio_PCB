@@ -26,3 +26,6 @@ Generated*/
 .DS_Store
 Thumbs.db
 .vscode/
+# Library
+.SchLib
+.PcbLib
