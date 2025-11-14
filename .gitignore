@@ -27,5 +27,5 @@ Generated*/
 Thumbs.db
 .vscode/
 # Library
-.SchLib
-.PcbLib
+*.SchLib
+*.PcbLib
